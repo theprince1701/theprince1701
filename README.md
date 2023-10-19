@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Liam</h1>
-<h3 align="left">A passionate game developer from Canada</h3>
+<h3 align="left">A passionate game developer from Canada I specalize in multiplayer development, specifically in Unreal Engine</h3>
 
  &nbsp;
   &nbsp;
