@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Liam</h1>
-<h3 align="center">A passionate game developer from Canada</h3>
+<h3 align="left">A passionate game developer from Canada</h3>
 
 - 🔭 I’m currently working on **various projects**
 
